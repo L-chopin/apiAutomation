@@ -1,0 +1,39 @@
+{
+  "select": {
+    "page": 1,
+    "rows": 30,
+    "sortBy":"census_date",
+    "ascdesc":"desc",
+    "startTime":"2020-12-25",
+    "endTime":"2021-01-24",
+    "shopName":"",
+    "productName":""
+  },
+  "insert":{
+    "shopId":"1CK00001",
+    "productNo":"1C01A002",
+    "censusDate":"2021-01-01",
+    "clicks":"",
+    "paymentsNumber":"",
+    "gvm":"",
+    "receiptNumber":"",
+    "receiptAmount":"",
+    "commission":"",
+    "serviceFee":"",
+    "couponsUsed":""
+  },
+  "update":{
+    "id":"79f48a4c-f967-47a1-97be-2e3a8d6fdeaf",
+    "shopId":"1CK00001",
+    "productNo":"1C01A001",
+    "censusDate":"2021-01-23",
+    "clicks":1,
+    "paymentsNumber":0,
+    "gvm":0,
+    "receiptNumber":0,
+    "receiptAmount":0,
+    "commission":0,
+    "serviceFee":0,
+    "couponsUsed":0
+  }
+}
